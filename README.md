@@ -1,2 +1,2 @@
 # SENAI-SistemaCadastroEventosUC8
-A study repository for SENAI course
+Exercício da "Atividade online 2"
